@@ -1,0 +1,16 @@
+{
+  "name": "tail-line",
+  "version": "0.0.1",
+  "description": "A robust tail system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomasz Rakowski",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "fs-tail-stream": "^1.1.0",
+    "randomstring": "^1.1.5"
+  }
+}
